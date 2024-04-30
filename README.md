@@ -1,4 +1,7 @@
 # short_bursts
+
+*Update April 30, 2024*: The latest version of GerryChain has short bursts functionality. Best to use that. [Here it is applied to Louisiana State Senate](https://github.com/AustinLBuchanan/short_bursts/blob/main/gerrychain_shortbursts.ipynb).
+
 Simple implementation of short bursts to generate Gingles demonstration plans
 
 The short bursts framework comes from the following paper:
